@@ -1,0 +1,54 @@
+// Color
+$gray-100: #161616;
+$gray-80: #393939;
+$gray-60: #8D8D8D;
+$gray-40: #a8a8a8;
+$gray-30: #c6c6c6;
+$gray-20: #e0e0e0;
+$gray-10: #f4f4f4;
+$white: #fff;
+$primary: #3238EC;
+$twitter: #00ACEE;
+$youtube: #ff0000;
+$instagram: #5851db;
+
+// Light
+:root {
+  // Background
+  --background: #{$white};
+
+  // Text
+  --text: #{$gray-100};
+  --text-primary: #{$primary};
+
+  // Input
+  --placeholder: #{$gray-60};
+
+  // Border
+  --border: #{$gray-20};
+}
+
+// Text
+$text: var(--text);
+$text-primary: var(--text-primary);
+
+// Font
+$font-size: 16px;
+$font-family: -apple-system, 'BlinkMacSystemFont', 'Hiragino Kaku Gothic ProN', 'メイリオ', Sans-Serif;
+$line-height: 1.6;
+
+// Input
+$placeholder: var(--placeholder);
+
+// Border
+$border: var(--border);
+
+// Background
+$background: var(--background);
+
+// MediaQueries
+$breakpoints: (
+  sm: 672px,
+  md: 1056px,
+  lg: 1312px
+);

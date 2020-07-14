@@ -1,0 +1,23 @@
+{
+  "name": "imagination",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.13.0",
+    "nuxt-webfontloader": "^1.1.0",
+    "sass-loader": "^9.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/google-analytics": "^2.3.0",
+    "@nuxtjs/style-resources": "^1.0.0"
+  }
+}
