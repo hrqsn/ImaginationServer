@@ -1,4 +1,3 @@
-
 require('dotenv').config()
 export default {
   /*
@@ -61,6 +60,7 @@ export default {
   modules: [
     '@nuxtjs/style-resources',
     'nuxt-webfontloader',
+    '@nuxtjs/dotenv',
     ['@nuxtjs/google-analytics', {
       id: process.env.GTAG
     }]
