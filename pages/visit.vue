@@ -13,35 +13,31 @@
       <section class="status sm">
         <div class="title">
           <h1>次回開園日</h1>
-          <!-- <p>準備中</p> -->
-          <p>8/1(土) ~ 8/3(月)</p>
+          <p>8/1(土) ~ 8/3(月) 08:00~22:00</p>
         </div>
       </section>
       <section class="ticket sm">
         <div class="title">
           <h1>パークチケット</h1>
-          <!-- <p>準備中</p> -->
-          <p>今回の観光企画では、<strong>オンライン抽選制</strong>での１デーパスポート発行を行います。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
+          <p>今回の観光企画では、<strong>オンライン抽選制</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
 
         </div>
       </section>
       <section class="status sm">
         <div class="title">
           <h1>抽選受付期間</h1>
-          <!-- <p>準備中</p> -->
           <p>7/23(木) 08:00 ~ 23:59</p>
         </div>
       </section>
       <section class="ticket sm">
         <div class="title">
           <h1>参加方法</h1>
-          <!-- <p>準備中</p> -->
           <p>
             <ul>
               <li>1. <a href="#rules">参加ルール</a> を確認する</li>
               <li>2. <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選する</li>
-              <li>3. 抽選にて当選した方には １デーパスポート を発行します。大切に保存してください。</li>
-              <li>4. 発行ページに従って 専用LINEグループ へご参加ください！✨</li>
+              <li>3. 抽選にて当選した方には １デーパスポート を発券します。大切に保存してください。</li>
+              <li>4. 発券ページに従って 専用LINEグループ へご参加ください！✨</li>
             </ul>
            </p>
         </div>
