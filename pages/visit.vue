@@ -55,7 +55,8 @@
               <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
               <li>3. ゲストの皆様への連絡を効率的に行うため、LINEグループへの参加が必要となります</li>
               <li>4. 抽選は1人につき1回のみ可能です</li>
-              <li>5. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
+              <li>5. 当選した方は、ご友人を3名まで招待できます</li>
+              <li>6. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
             </ul>
            </p>
         </div>
