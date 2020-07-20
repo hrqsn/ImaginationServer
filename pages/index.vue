@@ -154,7 +154,7 @@ export default {
         },
         {
           "id": 15,
-          "name": "Walt1901",
+          "name": "Topolino",
           "role": "クリエイティブ/コマンド",
           "img": "15-min.JPG"
         },
@@ -181,6 +181,12 @@ export default {
           "name": "AmiVOX",
           "role": "クリエイティブ/コマンド/配信",
           "img": "19-min.JPG"
+        },
+        {
+          "id": 20,
+          "name": "KamosanUCR",
+          "role": "クリエイティブ/コマンド/アドオン/配信",
+          "img": "20.JPG"
         }
       ]
     }

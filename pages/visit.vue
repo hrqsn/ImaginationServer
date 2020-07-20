@@ -14,15 +14,56 @@
         <div class="title">
           <h1>次回開園日</h1>
           <!-- <p>準備中</p> -->
-          <p>8/1~8/4</p>
+          <p>8/1(土) ~ 8/3(月)</p>
         </div>
       </section>
       <section class="ticket sm">
         <div class="title">
           <h1>パークチケット</h1>
           <!-- <p>準備中</p> -->
-          <p>4日間入園可能なマルチデーパスポートを用意しております。（数量限定）</p>
+          <p>今回の観光企画では、<strong>オンライン抽選制</strong>での１デーパスポート発行を行います。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
+
         </div>
+      </section>
+      <section class="status sm">
+        <div class="title">
+          <h1>抽選受付期間</h1>
+          <!-- <p>準備中</p> -->
+          <p>7/23(木) 08:00 ~ 23:59</p>
+        </div>
+      </section>
+      <section class="ticket sm">
+        <div class="title">
+          <h1>参加方法</h1>
+          <!-- <p>準備中</p> -->
+          <p>
+            <ul>
+              <li>1. <a href="#rules">参加ルール</a> を確認する</li>
+              <li>2. <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選する</li>
+              <li>3. 抽選にて当選した方には １デーパスポート を発行します。大切に保存してください。</li>
+              <li>4. 発行ページに従って 専用LINEグループ へご参加ください！✨</li>
+            </ul>
+           </p>
+        </div>
+      </section>
+      <section class="ticket sm" id="rules">
+        <div class="title">
+          <h1>参加ルール</h1>
+          <p>
+            <ul>
+              <li>1. <a href="https://imaginationserver.com/terms" target="_blank" rel=”noopener”>利用規約</a> への同意をお願いします</li>
+              <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
+              <li>3. ゲストの皆様への連絡を効率的に行うため、LINEグループへの参加が必要となります</li>
+              <li>4. 抽選は1人につき1回のみ可能です</li>
+              <li>5. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
+            </ul>
+           </p>
+        </div>
+      </section>
+      <section class="join">
+        <h1>Imagine!</h1>
+        <p>それでは「観光企画2020」をお楽しみください！✨</p>
+        <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener” class="button">抽選ページに行く</a>
       </section>
       <im-footer />
     </div>
@@ -42,15 +83,17 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.header {
+  height: 480px;
+}
 section {
   width: 100%;
-  height: 480px;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0 16px;
   &.sm {
-    height: 360px;
+    margin: 180px 0;
   }
   .title {
     text-align: center;
@@ -63,7 +106,14 @@ section {
     }
     p {
       font-size: 16px;
-      margin-top: 16px;
+      margin-top: 24px;
+      ul {
+        text-align: left;
+        li {
+          list-style: none;
+          margin-top: 8px;
+        }
+      }
     }
   }
 }
@@ -74,5 +124,56 @@ section {
   background-size: cover;
   background-position: 50%;
   background-position-y: bottom;
+}
+.join {
+  margin-top: 100px;
+  width: 100%;
+  height: 480px;
+  background-image: url("~@/assets/img/3.png");
+  background-size: cover;
+  background-position: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: $white;
+  padding: 0 16px;
+  h1 {
+    font-size: 40px;
+    font-weight: 600;
+    z-index: 1;
+  }
+  p {
+    font-size: 16px;
+    margin-top: 24px;
+    z-index: 1;
+  }
+  .button {
+    margin-top: 48px;
+    z-index: 1;
+    background: none;
+    padding: 0 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none !important;
+    background: $primary;
+    color: $white;
+    height: 48px;
+    border-radius: 4px;
+    font-size: rem(16px);
+  }
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba($gray-100, 0.24);
+  }
 }
 </style>
