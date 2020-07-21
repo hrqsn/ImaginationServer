@@ -51,19 +51,19 @@ export default {
   /*
   ** Nuxt.js dev-modules
   */
-  buildModules: [
-
+ buildModules: [
+    '@nuxtjs/google-analytics'
   ],
+  googleAnalytics: {
+    id: process.env.GTAG
+  },
   /*
   ** Nuxt.js modules
   */
   modules: [
     '@nuxtjs/style-resources',
     'nuxt-webfontloader',
-    '@nuxtjs/dotenv',
-    ['@nuxtjs/google-analytics', {
-      id: process.env.GTAG
-    }]
+    '@nuxtjs/dotenv'
   ],
   webfontloader: {
     google: {
