@@ -3,114 +3,126 @@
     "id": 0,
     "name": "Nooooosa",
     "role": "サーバー運営/クリエイティブ",
-    "img": "0.jpg"
+    "img": "0-min.JPG"
   },
   {
     "id": 1,
     "name": "stormMASA",
     "role": "サーバー運営/クリエイティブ",
-    "img": "1.jpg"
+    "img": "1-min.JPG"
   },
   {
     "id": 2,
     "name": "KIBI SNIPER",
     "role": "クリエイティブ/コマンド",
-    "img": "2.jpg"
+    "img": "2-min.JPG"
   },
   {
     "id": 3,
     "name": "Sans1215",
-    "role": "クリエイティブ/コマンド",
-    "img": "3.jpg"
+    "role": "クリエイティブ/コマンド/配信",
+    "img": "3-min.JPG"
   },
   {
     "id": 4,
     "name": "HAYABUSA0802",
     "role": "クリエイティブ/コマンド",
-    "img": "4.jpg"
+    "img": "4-min.JPG"
   },
   {
     "id": 5,
     "name": "kami dasu",
     "role": "クリエイティブ/コマンド",
-    "img": "5.jpg"
+    "img": "5-min.JPG"
   },
   {
     "id": 6,
     "name": "Akafumi",
     "role": "クリエイティブ/コマンド",
-    "img": "6.jpg"
+    "img": "6-min.JPG"
   },
   {
     "id": 7,
     "name": "活きのいいマグロ",
     "role": "クリエイティブ/コマンド",
-    "img": "7.jpg"
+    "img": "7-min.JPG"
   },
   {
     "id": 8,
     "name": "Zuki510",
     "role": "クリエイティブ/コマンド",
-    "img": "8.jpg"
+    "img": "8-min.JPG"
   },
   {
     "id": 9,
     "name": "okayu22",
     "role": "クリエイティブ/コマンド",
-    "img": "9.jpg"
+    "img": "9-min.JPG"
   },
   {
     "id": 10,
     "name": "calmdonald",
     "role": "クリエイティブ/コマンド",
-    "img": "10.jpg"
+    "img": "10-min.JPG"
   },
   {
     "id": 11,
     "name": "SHOoooo22",
     "role": "クリエイティブ/コマンド",
-    "img": "11.jpg"
+    "img": "11-min.JPG"
   },
   {
     "id": 12,
     "name": "V.LEMO",
     "role": "クリエイティブ/コマンド/アドオン",
-    "img": "12.jpg"
+    "img": "12-min.JPG"
   },
   {
     "id": 13,
     "name": "Jawa1210",
     "role": "クリエイティブ/コマンド",
-    "img": "13.jpg"
+    "img": "13-min.JPG"
   },
   {
     "id": 14,
     "name": "yusukenattou",
     "role": "クリエイティブ/コマンド",
-    "img": "14.jpg"
+    "img": "14-min.JPG"
   },
   {
     "id": 15,
-    "name": "Walt1901",
+    "name": "Topolino",
     "role": "クリエイティブ/コマンド",
-    "img": "15.jpg"
+    "img": "15-min.JPG"
   },
   {
     "id": 16,
     "name": "Ryosuke5861",
     "role": "クリエイティブ/コマンド",
-    "img": "16.jpg"
+    "img": "16-min.JPG"
   },
   {
     "id": 17,
     "name": "gaikotun",
     "role": "クリエイティブ/コマンド",
-    "img": "17.jpg"
+    "img": "17-min.JPG"
   },
   {
     "id": 18,
     "name": "Koba1115",
     "role": "クリエイティブ/コマンド/リソースパック",
-    "img": "18.jpg"
+    "img": "18-min.JPG"
+  },
+  {
+    "id": 19,
+    "name": "AmiVOX",
+    "role": "クリエイティブ/コマンド/配信",
+    "img": "19-min.JPG"
+  },
+  {
+    "id": 20,
+    "name": "KamosanUCR",
+    "role": "クリエイティブ/コマンド/アドオン/配信",
+    "img": "20.JPG"
   }
 ]
