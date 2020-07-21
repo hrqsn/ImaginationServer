@@ -37,7 +37,7 @@
               <li>1. <a href="#rules">参加ルール</a> を確認する</li>
               <li>2. <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選する</li>
               <li>3. 抽選にて当選した方には １デーパスポート を発券します。大切に保存してください。</li>
-              <li>4. 発券ページに従って 専用LINEグループ へご参加ください！✨</li>
+              <li>4. 発券ページに従って 専用Discordサーバー へご参加ください！✨</li>
             </ul>
            </p>
         </div>
@@ -49,7 +49,7 @@
             <ul>
               <li>1. <a href="https://imaginationserver.com/terms" target="_blank" rel=”noopener”>利用規約</a> への同意をお願いします</li>
               <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
-              <li>3. ゲストの皆様への連絡を効率的に行うため、LINEグループへの参加が必要となります</li>
+              <li>3. ゲストの皆様への連絡を効率的に行うため、Discordサーバーへの参加が必要となります</li>
               <li>4. 抽選は1人につき1回のみ可能です</li>
               <li>5. 当選した方は、ご友人を3名まで招待できます</li>
               <li>6. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
