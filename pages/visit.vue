@@ -19,7 +19,7 @@
       <section class="ticket sm">
         <div class="title">
           <h1>パークチケット</h1>
-          <p>今回の観光企画では、<strong>オンライン抽選制</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
+          <p>今回の観光企画では、<strong>オンライン抽選</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
 
         </div>
       </section>
