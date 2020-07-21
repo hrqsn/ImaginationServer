@@ -50,7 +50,7 @@
               <li>1. <a href="https://imaginationserver.com/terms" target="_blank" rel=”noopener”>利用規約</a> への同意をお願いします</li>
               <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
               <li>3. ゲストの皆様への連絡を効率的に行うため、Discordサーバーへの参加が必要となります</li>
-              <li>4. Minecraftスマホ版, WIndows10版をお持ちの方のみご来園いただけます</li>
+              <li>4. Minecraftスマホ版, Windows10版をお持ちの方のみご来園いただけます</li>
               <li>5. 抽選は1人につき1回のみ可能です</li>
               <li>6. 当選した方は、ご友人を3名まで招待できます</li>
               <li>7. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
