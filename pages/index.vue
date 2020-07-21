@@ -50,6 +50,7 @@ import ImFooter from '@/components/footer'
 import ImImage from '@/components/image'
 import ImProfile from '@/components/profile'
 import ImButton from '@/components/button'
+import casts from '@/static/casts.json'
 
 export default {
   components: {
@@ -61,134 +62,7 @@ export default {
   },
   data() {
     return {
-      casts: [
-        {
-          "id": 0,
-          "name": "Nooooosa",
-          "role": "サーバー運営/クリエイティブ",
-          "img": "0-min.JPG"
-        },
-        {
-          "id": 1,
-          "name": "stormMASA",
-          "role": "サーバー運営/クリエイティブ",
-          "img": "1-min.JPG"
-        },
-        {
-          "id": 2,
-          "name": "KIBI SNIPER",
-          "role": "クリエイティブ/コマンド",
-          "img": "2-min.JPG"
-        },
-        {
-          "id": 3,
-          "name": "Sans1215",
-          "role": "クリエイティブ/コマンド/配信",
-          "img": "3-min.JPG"
-        },
-        {
-          "id": 4,
-          "name": "HAYABUSA0802",
-          "role": "クリエイティブ/コマンド",
-          "img": "4-min.JPG"
-        },
-        {
-          "id": 5,
-          "name": "kami dasu",
-          "role": "クリエイティブ/コマンド",
-          "img": "5-min.JPG"
-        },
-        {
-          "id": 6,
-          "name": "Akafumi",
-          "role": "クリエイティブ/コマンド",
-          "img": "6-min.JPG"
-        },
-        {
-          "id": 7,
-          "name": "活きのいいマグロ",
-          "role": "クリエイティブ/コマンド",
-          "img": "7-min.JPG"
-        },
-        {
-          "id": 8,
-          "name": "Zuki510",
-          "role": "クリエイティブ/コマンド",
-          "img": "8-min.JPG"
-        },
-        {
-          "id": 9,
-          "name": "okayu22",
-          "role": "クリエイティブ/コマンド",
-          "img": "9-min.JPG"
-        },
-        {
-          "id": 10,
-          "name": "calmdonald",
-          "role": "クリエイティブ/コマンド",
-          "img": "10-min.JPG"
-        },
-        {
-          "id": 11,
-          "name": "SHOoooo22",
-          "role": "クリエイティブ/コマンド",
-          "img": "11-min.JPG"
-        },
-        {
-          "id": 12,
-          "name": "V.LEMO",
-          "role": "クリエイティブ/コマンド/アドオン",
-          "img": "12-min.JPG"
-        },
-        {
-          "id": 13,
-          "name": "Jawa1210",
-          "role": "クリエイティブ/コマンド",
-          "img": "13-min.JPG"
-        },
-        {
-          "id": 14,
-          "name": "yusukenattou",
-          "role": "クリエイティブ/コマンド",
-          "img": "14-min.JPG"
-        },
-        {
-          "id": 15,
-          "name": "Topolino",
-          "role": "クリエイティブ/コマンド",
-          "img": "15-min.JPG"
-        },
-        {
-          "id": 16,
-          "name": "Ryosuke5861",
-          "role": "クリエイティブ/コマンド",
-          "img": "16-min.JPG"
-        },
-        {
-          "id": 17,
-          "name": "gaikotun",
-          "role": "クリエイティブ/コマンド",
-          "img": "17-min.JPG"
-        },
-        {
-          "id": 18,
-          "name": "Koba1115",
-          "role": "クリエイティブ/コマンド/リソースパック",
-          "img": "18-min.JPG"
-        },
-        {
-          "id": 19,
-          "name": "AmiVOX",
-          "role": "クリエイティブ/コマンド/配信",
-          "img": "19-min.JPG"
-        },
-        {
-          "id": 20,
-          "name": "KamosanUCR",
-          "role": "クリエイティブ/コマンド/アドオン/配信",
-          "img": "20.JPG"
-        }
-      ]
+      casts: casts
     }
   }
 }
