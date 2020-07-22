@@ -62,7 +62,7 @@ export default {
   width: 100%;
   display: flex;
   justify-content: center;
-  margin: 80px auto;
+  margin: 80px auto 0;
   padding: 0 16px;
   &__inner {
     width: 100%;
