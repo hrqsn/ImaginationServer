@@ -4,7 +4,7 @@
       <im-navbar />
       <section class="header">
         <div class="title">
-          <small>開催決定！</small>
+          <small>終了しました</small>
           <h1>観光企画</h1>
           <p>Imagination Serverでは、ゲストの方にご入園いただける<br />「観光企画」を不定期で開催しています✨</p>
         </div>
@@ -12,11 +12,11 @@
       <section class="bg-section"></section>
       <section class="status sm">
         <div class="title">
-          <h1>次回開園日</h1>
-          <p>8/1(土) ~ 8/3(月) 08:00~22:00</p>
+          <h1>終了しました</h1>
+          <p>大盛況のうちに終了いたしました。次回のご来園をキャスト一同心よりお待ちしております。ありがとうございました！✨</p>
         </div>
       </section>
-      <section class="ticket sm">
+      <!-- <section class="ticket sm">
         <div class="title">
           <h1>パークチケット</h1>
           <p>今回の観光企画では、<strong>オンライン抽選</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
@@ -57,7 +57,7 @@
             </ul>
            </p>
         </div>
-      </section>
+      </section> -->
       <section class="join">
         <h1>Imagine!</h1>
         <p>それでは「観光企画2020」をお楽しみください！✨</p>
