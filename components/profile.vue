@@ -36,11 +36,13 @@ export default {
   align-items: center;
   display: flex;
   flex-direction: column;
+  background-color: $white;
   .image {
     height: 120px;
     width: 120px;
     border-radius: 50%;
     object-fit: cover;
+    background-color: $white;
   }
   h1 {
     font-size: 22px;

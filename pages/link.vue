@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <im-linknav />
-      <section>
+      <section class="hero">
         <div class="links">
           <a href="/" class="button web">
             <World /> <span>ホームページ</span>
@@ -51,6 +51,7 @@ export default {
 section {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-bottom: 160px;
 }
 .links {

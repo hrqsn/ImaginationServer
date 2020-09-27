@@ -14,6 +14,12 @@
           <h1>51%</h1>
           <p>完成</p>
         </div>
+        <div class="description">
+          <h1>完成済みのアトラクション</h1>
+          <ul>
+            <li>ヴェネチアン・ゴンドラ</li>
+          </ul>
+        </div>
       </section>
       <im-footer />
     </div>

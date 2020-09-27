@@ -6,7 +6,7 @@
         <div class="navBar__navItem">
           <im-link to="/" color="default" size="md">ホーム</im-link>
         </div>
-        <!-- <div class="o-navBar__navItem">
+        <!-- <div class="navBar__navItem">
           <im-link to="/status" color="default" size="md">進行状況</im-link>
         </div> -->
         <div class="navBar__navItem">
