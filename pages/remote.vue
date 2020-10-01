@@ -16,13 +16,7 @@
           <p>説明</p>
         </div>
       </section>
-      <section class="status sm">
-        <div class="title">
-          <h1>参加方法</h1>
-          <p>説明</p>
-        </div>
-      </section>
-      <section class="status sm">
+      <section class="status sm" id="entry">
         <div class="title">
           <h1>参加資格</h1>
           <p>説明</p>
@@ -30,8 +24,20 @@
       </section>
       <section class="status sm">
         <div class="title">
-          <h1>エントリー受付フォーム</h1>
-          <iframe style="margin-top: 40px" src="https://docs.google.com/forms/d/e/1FAIpQLSeOp2DWP38sxb4cBHtkjFiv-Rqm6JQu7sC9yIZtcwSJcvjIEA/viewform?embedded=true" width="100%" height="3000" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+          <h1>参加方法</h1>
+          <p>
+            <ul>
+              <li>1. <a href="#entry">参加資格</a> を確認する</li>
+              <li>2. <a href="#form">エントリー受付フォーム</a> にて参加受付する</li>
+              <li>3. <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式アカウント</a> のDMにて参加希望の旨を送信の上、対応をお待ちください</li>
+            </ul>
+          </p>
+        </div>
+      </section>
+      <section class="status sm" id="form">
+        <div class="title">
+          <h1 style="margin-bottom: 40px;">エントリー受付フォーム</h1>
+          <a href="https://forms.gle/mADsezsqswCh5JSW8" target="_blank" rel=”noopener”>https://forms.gle/mADsezsqswCh5JSW8</a>
         </div>
       </section>
       <!-- <section class="ticket sm">
