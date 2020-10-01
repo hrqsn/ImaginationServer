@@ -58,11 +58,11 @@
            </p>
         </div>
       </section> -->
-      <section class="join">
-        <h1>Imagine!</h1>
+      <!-- <section class="join">
+        <h1 id="montserrat">Imagine!</h1>
         <p>それでは「観光企画2020」をお楽しみください！✨</p>
         <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener” class="button">抽選ページに行く</a>
-      </section>
+      </section> -->
       <im-footer />
     </div>
   </div>

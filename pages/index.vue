@@ -35,7 +35,7 @@
         <im-button to="visit" size="lg" color="black">詳しくはこちら</im-button>
       </section>
       <section class="join">
-        <h1>Join us</h1>
+        <h1 id="montserrat">Join us</h1>
         <p>キャスト参加をご希望ですか？</p>
         <im-button to="join" size="lg" color="primary">募集情報を見る</im-button>
       </section>
