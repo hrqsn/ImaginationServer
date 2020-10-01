@@ -6,14 +6,14 @@
         <div class="title">
           <small>配信者募集中！</small>
           <h1>リモート観光企画</h1>
-          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催予定✨</p>
+          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催致します✨</p>
         </div>
       </section>
       <section class="bg-section"></section>
       <section class="status sm">
         <div class="title">
           <h1>リモート観光企画とは？</h1>
-          <p>「もっと多くの人にバーチャルディズニーの魅力を知って欲しい!」という想いから、<br/>日々動画で様々な情報を発信しているクリエイターを招待し、<br/>配信を通して皆様と <strong>リモート</strong> でディズニーを観光する企画です✨</p>
+          <p>「もっと多くの人にバーチャルディズニーの魅力を知って欲しい!」という想いから、<br/>日々動画で様々な情報を発信しているクリエイターを招待し、<br/>配信を通して皆様と <strong>リモート</strong> でパークを観光する企画です✨</p>
         </div>
       </section>
       <section class="status sm" id="entry">
