@@ -13,6 +13,9 @@
           <im-link to="/survival" color="default" size="md">サバイバル企画</im-link>
         </div>
         <div class="navBar__navItem">
+          <im-link to="/remote" color="default" size="md">リモート観光企画</im-link>
+        </div>
+        <div class="navBar__navItem">
           <im-link to="/visit" color="default" size="md">観光企画</im-link>
         </div>
         <div class="navBar__navItem">
