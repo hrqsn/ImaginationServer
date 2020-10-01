@@ -6,20 +6,26 @@
         <div class="title">
           <small>配信者募集中！</small>
           <h1>リモート観光企画</h1>
-          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催いたします✨</p>
+          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催予定✨</p>
         </div>
       </section>
       <section class="bg-section"></section>
       <section class="status sm">
         <div class="title">
           <h1>リモート観光企画とは？</h1>
-          <p>説明</p>
+          <p>「もっと多くの人にバーチャルディズニーの魅力を知って欲しい!」という想いから、<br/>日々動画で様々な情報を発信しているクリエイターを招待し、<br/>配信を通して皆様と <strong>リモート</strong> でディズニーを観光する企画です✨</p>
         </div>
       </section>
       <section class="status sm" id="entry">
         <div class="title">
           <h1>参加資格</h1>
-          <p>説明</p>
+          <p>
+            <ul>
+              <li>・ YouTube チャンネル登録者 <strong>500名</strong> 以上</li>
+              <li>・ Mirattivを含む各種配信サービス フォロワー <strong>1000名</strong> 以上</li>
+            </ul>
+          </p>
+          <p>のいずれかを満たす方</p>
         </div>
       </section>
       <section class="status sm">
