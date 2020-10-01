@@ -43,7 +43,7 @@
       <section class="status sm" id="form">
         <div class="title">
           <h1 style="margin-bottom: 40px;">エントリー受付フォーム</h1>
-          <a href="https://forms.gle/mADsezsqswCh5JSW8" target="_blank" rel=”noopener”>こちらから回答できます</a>
+          <a href="https://forms.gle/mADsezsqswCh5JSW8" target="_blank" rel=”noopener”>こちらから申請できます</a>
         </div>
       </section>
       <!-- <section class="ticket sm">
