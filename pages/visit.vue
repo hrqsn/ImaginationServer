@@ -4,32 +4,38 @@
       <im-navbar />
       <section class="header">
         <div class="title">
-          <small>終了しました</small>
+          <small>開催決定！</small>
           <h1>観光企画</h1>
           <p>Imagination Serverでは、ゲストの方にご入園いただける<br />「観光企画」を不定期で開催しています✨</p>
         </div>
       </section>
       <section class="bg-section"></section>
-      <section class="status sm">
+      <!-- <section class="status sm">
         <div class="title">
           <h1>終了しました</h1>
           <p>大盛況のうちに終了いたしました。次回のご来園をキャスト一同心よりお待ちしております。ありがとうございました！✨</p>
         </div>
-      </section>
-      <!-- <section class="ticket sm">
+      </section> -->
+      <!-- 観光企画開催時 -->
+      <section class="ticket sm">
         <div class="title">
-          <h1>パークチケット</h1>
-          <p>今回の観光企画では、<strong>オンライン抽選</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
-
+          <h1>イベント内容</h1>
+          <p>今回の観光企画「Dream Lights」では、<strong>クリスマス</strong>~<strong>お正月</strong> にかけて皆様をパークにご招待いたします。<br/>大きく進化したパークで、素敵な旅のひとときをどうぞお楽しみください。</p>
         </div>
       </section>
-      <section class="status sm">
+      <section class="ticket sm">
+        <div class="title">
+          <h1>参加方法・その他</h1>
+          <p>詳細が決まり次第、順次ご案内いたします。情報解禁までお待ちください。</p>
+        </div>
+      </section>
+      <!-- <section class="status sm">
         <div class="title">
           <h1>抽選受付期間</h1>
           <p>7/23(木) 08:00 ~ 23:59</p>
         </div>
-      </section>
-      <section class="ticket sm">
+      </section> -->
+      <!-- <section class="ticket sm">
         <div class="title">
           <h1>参加方法</h1>
           <p>
@@ -41,8 +47,8 @@
             </ul>
            </p>
         </div>
-      </section>
-      <section class="ticket sm" id="rules">
+      </section> -->
+      <!-- <section class="ticket sm" id="rules">
         <div class="title">
           <h1>参加ルール</h1>
           <p>
@@ -51,18 +57,16 @@
               <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
               <li>3. ゲストの皆様への連絡を効率的に行うため、Discordサーバーへの参加が必要となります</li>
               <li>4. Minecraftスマホ版, Windows10版をお持ちの方のみご来園いただけます</li>
-              <li>5. 抽選は1人につき1回のみ可能です</li>
-              <li>6. 当選した方は、ご友人を3名まで招待できます</li>
-              <li>7. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
+              <li>7. 不明な点や質問等は <a href="https://twitter.com/imasaba_support" target="_blank" rel=”noopener”>公式カスタマーサポート</a> のDMにてお願いします👋</li>
             </ul>
            </p>
         </div>
       </section> -->
-      <!-- <section class="join">
+      <section class="join">
         <h1 id="montserrat">Imagine!</h1>
-        <p>それでは「観光企画2020」をお楽しみください！✨</p>
-        <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener” class="button">抽選ページに行く</a>
-      </section> -->
+        <p>それでは「観光企画 ~ Dream Lights ~」をお楽しみください！✨</p>
+        <!-- <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener” class="button">抽選ページに行く</a> -->
+      </section>
       <im-footer />
     </div>
   </div>

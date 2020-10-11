@@ -6,7 +6,7 @@
         <div class="title">
           <small>配信者募集中！</small>
           <h1>リモート観光企画</h1>
-          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催致します✨</p>
+          <p>Imagination Serverでは、一般の配信者の方を通した<br />「リモート観光企画」を開催いたします✨</p>
         </div>
       </section>
       <section class="bg-section"></section>
@@ -46,48 +46,6 @@
           <a href="https://forms.gle/mADsezsqswCh5JSW8" target="_blank" rel=”noopener”>こちらから申請できます</a>
         </div>
       </section>
-      <!-- <section class="ticket sm">
-        <div class="title">
-          <h1>パークチケット</h1>
-          <p>今回の観光企画では、<strong>オンライン抽選</strong>にて１デーパスポートを発券します。<br/>参加を希望される方は、<a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選をお願いいたします。</p>
-
-        </div>
-      </section>
-      <section class="status sm">
-        <div class="title">
-          <h1>抽選受付期間</h1>
-          <p>7/23(木) 08:00 ~ 23:59</p>
-        </div>
-      </section>
-      <section class="ticket sm">
-        <div class="title">
-          <h1>参加方法</h1>
-          <p>
-            <ul>
-              <li>1. <a href="#rules">参加ルール</a> を確認する</li>
-              <li>2. <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener”>チケットストア</a> にて抽選する</li>
-              <li>3. 抽選にて当選した方には １デーパスポート を発券します。大切に保存してください。</li>
-              <li>4. 発券ページに従って 専用Discordサーバー へご参加ください！✨</li>
-            </ul>
-           </p>
-        </div>
-      </section>
-      <section class="ticket sm" id="rules">
-        <div class="title">
-          <h1>参加ルール</h1>
-          <p>
-            <ul>
-              <li>1. <a href="https://imaginationserver.com/terms" target="_blank" rel=”noopener”>利用規約</a> への同意をお願いします</li>
-              <li>2. 実際のパークで禁止されている行為（荒らす/禁止区域への立ち入り/迷惑行為等）はご遠慮ください</li>
-              <li>3. ゲストの皆様への連絡を効率的に行うため、Discordサーバーへの参加が必要となります</li>
-              <li>4. Minecraftスマホ版, Windows10版をお持ちの方のみご来園いただけます</li>
-              <li>5. 抽選は1人につき1回のみ可能です</li>
-              <li>6. 当選した方は、ご友人を3名まで招待できます</li>
-              <li>7. 不明な点や質問等は <a href="https://twitter.com/tdr_mcpe_server" target="_blank" rel=”noopener”>公式Twitter</a> のDMにてお願いします👋</li>
-            </ul>
-           </p>
-        </div>
-      </section> -->
       <section class="join">
         <h1 id="montserrat">Imagine!</h1>
         <p>それでは「リモート観光企画」をお楽しみください！✨</p>
