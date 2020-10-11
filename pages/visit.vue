@@ -64,7 +64,7 @@
       </section> -->
       <section class="join">
         <h1 id="montserrat">Imagine!</h1>
-        <p>それでは「観光企画 ~ Dream Lights ~」をお楽しみください！✨</p>
+        <p>それでは「観光企画 - Dream Lights -」をお楽しみください！✨</p>
         <!-- <a href="https://store.imaginationserver.com" target="_blank" rel=”noopener” class="button">抽選ページに行く</a> -->
       </section>
       <im-footer />
